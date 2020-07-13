@@ -1,4 +1,5 @@
 <p align="center">
+	<a href="mailto:nuhil@nuhil.net?subject=Github%20Visitor&body=Hi%20Nuhil,..."><img src="http://img.shields.io/badge/-_?label=Send%20Mail&style=social&logo=gmail" alt="nuhil@nuhil.net"></a>
 	<a href="https://github.com/nuhil"><img src="https://img.shields.io/github/followers/nuhil.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://twitter.com/nuhil"><img src="https://img.shields.io/twitter/follow/nuhil" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/nuhil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
@@ -19,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
