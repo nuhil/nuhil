@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Nuhil, Ph.D. candidate and polyglot programmer with prior graduations in computer science, and former software engineer with more than 5 years of experience who believes in artificial intelligence and likes the cloud, desktop, and mobile platforms for developing software and machine learning based AI tools, following the micro-service architecture to solve real-life problems.
+I'm Nuhil, Ph.D. candidate with both B.Sc. and M.Sc. degree in computer science, and former software engineer with around 5 years of experience who believes in artificial intelligence and prefers the cloud infrastructure for developing software and machine learning based AI tools, following the micro-service architecture.
 
 
 <p align="center">
