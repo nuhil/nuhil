@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Nuhil, Ph.D. candidate with both B.Sc. and M.Sc. degree in computer science, and former software engineer with around 5 years of experience who believes in artificial intelligence and prefers the cloud infrastructure for developing software and machine learning based AI tools, following the micro-service architecture.
+I'm Nuhil, Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and both B.Sc. and M.Sc. degrees in computer science. A former software engineer who believes in artificial intelligence and prefers the cloud infrastructure for developing software and machine learning based AI tools, following the micro-service architecture.
 
 
 <p align="center">
