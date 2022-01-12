@@ -54,17 +54,17 @@ Rajshahi University of Engineering and Technology | Rajshahi, Bangladesh
 * B.Sc. Thesis - An Internet of Things project by combining technologies such as web protocols, hardware, and interfacing to remotely control electronic devices (2010).
 
 ## PUBLICATIONS
-1. Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans. 2021   
+1. Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans. [2021](https://dl.acm.org/doi/10.1145/3450613.3456829)   
 	1st Author. ACM UMAP ‘21 – User Modeling, Adaptation, and Personalization.
-2. Modeling of Personalized Privacy Disclosure Behavior: A Formal Method Approach. 2021   
+2. Modeling of Personalized Privacy Disclosure Behavior: A Formal Method Approach. [2021](https://dl.acm.org/doi/fullHtml/10.1145/3465481.3470102)   
 	1st Author. BASS ‘21. International Workshop on Behavioral Authentication for System Security @ARES 21
-3. A Multi-Input Multi-Output Transformer based Hybrid Neural Network for Multi-Class Privacy Disclosure Detection. 2021   
+3. A Multi-Input Multi-Output Transformer based Hybrid Neural Network for Multi-Class Privacy Disclosure Detection. [2021](https://aircconline.com/csit/papers/vol11/csit111419.pdf)   
 	1st Author. MLNLP ‘21. 2nd International Conference on Machine Learning Techniques and NLP.
-4. A User-Centric and Sentiment Aware Privacy-Disclosure Detection Framework based on Multi-input Neural Network. 2020   
+4. A User-Centric and Sentiment Aware Privacy-Disclosure Detection Framework based on Multi-input Neural Network. [2020](https://par.nsf.gov/servlets/purl/10222649)   
 	1st Author. PrivateNLP ‘20. Workshop on Privacy in NLP @WSDM 20.
-5. FALCON: Framework for Anomaly Detection in Industrial Control Systems. 2020   
+5. FALCON: Framework for Anomaly Detection in Industrial Control Systems. [2020](https://www.mdpi.com/2079-9292/9/8/1192/pdf)   
 	2nd Author. Journal. MDPI-Multidisciplinary Digital Publishing Institute, Electronics.
-6. Privacy Disclosures Detection in Natural-Language Text through Linguistically-motivated Artificial Neural Network. 2019   
+6. Privacy Disclosures Detection in Natural-Language Text through Linguistically-motivated Artificial Neural Network. [2019](https://par.nsf.gov/servlets/purl/10222648)   
 	1st Author. SPNCE ‘19. International Conference on Security and Privacy in New Computing Environment.
 
 ## LEADERSHIP EXPERIENCE
