@@ -19,3 +19,14 @@ Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and bo
 * **Deep Learning** - CNN (Convolutional Neural Network), LSTM (Long Short Term Memory Network), Encoder-Decoder  Model, Transformer Model (BERT, GPT), GAN (Generative Adversarial Network), NLP (Natural Language Processing), Anomaly Detection, Time Series Forecasting, Recommender Systems, Tensorflow, Keras, Pytorch
 * **MLOps** - git, Docker, Jenkins, GitHub Actions, Amazon Web Services, Google Cloud Platform (Cloud Composer, BigQuery, Dataproc, Cloud Storage, Cloud Functions, AI Platform, Auto ML, etc.)
 * **Software Development** - Django, Flask, FastAPI, Node.js, Express, Agile, Test Driven Development
+
+## EDUCATION AND RESEARCH EXPERIENCE
+**DOCTOR OF PHILOSOPHY | Computing** 
+Boise State University | Jan 2018 – June 2021 | 3.72/4.00 | Boise, ID, USA
+	* Investigating Human Privacy Behavior through Descriptive and Predictive Analysis
+		* Designing and conducting scientifically grounded better survey techniques for eliciting the human privacy decision-making process and privacy behavior. Employing custom machine learning based approaches to better explain and model the observations.
+	* Identifying Privacy Disclosures in Natural Language Text
+		* Implemented LSTM and Multi-channel Convolutional Neural Network to precisely detect private information disclosures in texts. Utilized underlying linguistic features, word embedding, and sequence learning for sentence-level analysis.
+	* Anomaly Detection in Time Series Data
+		* Developed a Deep Learning based anomaly detection model for identifying real-time anomaly in the time series data. Leveraged generative adversarial network for conducting stealthy attacks on continuous variable processes.
+
