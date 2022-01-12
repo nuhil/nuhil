@@ -20,18 +20,18 @@ Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and bo
 * **Software Development** - Django, Flask, FastAPI, Node.js, Express, Agile, Test Driven Development
 
 ## INDUSTRY EXPERIENCE
-**Machine Learning Engineer III | MICRON TECHNOLOGY INC.** (June 2021 – Present | Boise, ID, USA)
+**MACHINE LEARNING ENGINEER III | MICRON TECHNOLOGY INC.** (June 2021 – Present | Boise, ID, USA)
 * Building end-to-end, resilient, and production-ready Machine Learning Pipelines for the stakeholders from both the back and front end of the manufacturing processes.
 * Combining custom-designed ML models with Google Cloud AutoML and AutoML APIs to enhance the manufacturing processes.   
 
-**Data Science - Intern | MICRON TECHNOLOGY INC.** (May 2020 – August 2020 | Boise, ID, USA)
+**DATA SCIENCE - INTERN | MICRON TECHNOLOGY INC.** (May 2020 – August 2020 | Boise, ID, USA)
 * Worked on developing machine learning based predictive models that explain and predict hiring outcomes, productivity, engagement, and retention.
 * Developed 3 re-usable NLP models that are roughly 12% better in terms of accuracy and interpretability than that of the baselines by utilizing hybrid neural network architecture on top of ~1 million rows of unstructured textual data from in/outside of Micron.   
 
-**Back End Developer - Remote | MOBBAZAAR INC.** (Jan 2015 – Aug 2015 | San Jose, CA, USA)
+**BACK END DEVELOPER - REMOTE | MOBBAZAAR INC.** (Jan 2015 – Aug 2015 | San Jose, CA, USA)
 * Developed backend APIs for Single Tap Communication App for iOS using Slim and Django along with MySQL and PostgreSQL. Later migrated to Tornado for a 50X boost in availability.   
 
-**Software Engineer | WNEEDS LTD.** (Feb 2012 – Jan 2015 | Dhaka, BD)
+**SOFTWARE ENGINEER | WNEEDS LTD.** (Feb 2012 – Jan 2015 | Dhaka, BD)
 * Worked on enterprise-level web, mobile, and back-end applications with technologies such as AngularJS, Laravel, Codeigniter, and Objective-C. Successfully worked on enhancing the scalability for up to 3X with technologies such as Apache Solr, NoSQL, and Load Balancing.
 
 ## EDUCATION AND RESEARCH EXPERIENCE
