@@ -21,8 +21,8 @@ Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and bo
 * **Software Development** - Django, Flask, FastAPI, Node.js, Express, Agile, Test Driven Development
 
 ## EDUCATION AND RESEARCH EXPERIENCE
-**DOCTOR OF PHILOSOPHY | Computing** 
-Boise State University | Jan 2018 – June 2021 | 3.72/4.00 | Boise, ID, USA
+**DOCTOR OF PHILOSOPHY | Computing**   
+Boise State University | Jan 2018 – June 2021 | 3.72/4.00 | Boise, ID, USA   
 	* Investigating Human Privacy Behavior through Descriptive and Predictive Analysis
 		* Designing and conducting scientifically grounded better survey techniques for eliciting the human privacy decision-making process and privacy behavior. Employing custom machine learning based approaches to better explain and model the observations.
 	* Identifying Privacy Disclosures in Natural Language Text
