@@ -68,6 +68,6 @@ Rajshahi University of Engineering and Technology | Rajshahi, Bangladesh
 	1st Author. SPNCE ‘19. International Conference on Security and Privacy in New Computing Environment.
 
 ## LEADERSHIP EXPERIENCE
-**Founder and Main Coordinator** | HowToCode.dev, Open-source MOOC initiative.   
-**President** | Bangladeshi Students Association at Boise State University (2019-2020)   
-**Volunteer Team Lead** | 2020 IACRC Elections Conference arranged by Idaho Secretary of State.   
+**Founder and Main Coordinator** | [HowToCode.dev](https://www.howtocode.dev/), Open-source MOOC initiative.   
+**President** | [Bangladeshi Students Association at Boise State University](https://www.bsabsu.org/) (2019-2020)   
+**Volunteer Team Lead** | [2020 IACRC Elections Conference](http://idcounties.org/events/2020-iacrc-elections-conference/) arranged by Idaho Secretary of State.   
