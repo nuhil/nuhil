@@ -1,16 +1,6 @@
 ## QUALIFICATIONS SUMMARY
 Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and both B.Sc. and M.Sc. degrees in computer science. A former software engineer who believes in artificial intelligence and prefers the cloud infrastructure for developing software and machine learning based AI tools, following the micro-service architecture.
 
-
-<p align="center">
-	<a href="mailto:nuhil@nuhil.net?subject=Github%20Visitor&body=Hi%20Nuhil,..."><img src="http://img.shields.io/badge/-@nuhil.net-_?label=Send%20Mail&style=social&logo=gmail" alt="nuhil@nuhil.net"></a>
-	<a href="https://twitter.com/nuhil"><img src="https://img.shields.io/twitter/follow/nuhil" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/nuhil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://scholar.google.com/citations?user=5QLvXAYAAAAJ&hl=en&authuser=1"><img src="http://img.shields.io/badge/-_?label=Google%20Scholar&style=social&logo=google-scholar" alt="LinkedIn"></a>
-	<a href="https://medium.com/@nuhil"><img src="http://img.shields.io/badge/-@nuhil-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
-	<a href="https://stackoverflow.com/users/1061236/nuhil-mehdy"><img src="https://img.shields.io/stackexchange/stackoverflow/r/1061236?logo=stack-overflow&style=social" alt="StackOverflow"></a>
-</p>
-
 ## SKILLS OVERVIEW
 * **Programming** - Python, Javascript, Java, C/C++, SQL, R, PHP, HTML, CSS, Shell, Matlab
 * **Data Science** - Statistical Analysis, EDA (Exploratory Data Analysis), Data Visualization, Probability Distributions, Hypothesis and Significance Test, Bayesian Statistics, Streamlit, Pandas Profiling
@@ -54,4 +44,25 @@ Lamar University | Aug 2015 – Aug 2017 | 3.64/4.00 | Beaumont, TX, USA
 Rajshahi University of Engineering and Technology | Rajshahi, Bangladesh
 * B.Sc. Thesis - An Internet of Things project by combining technologies such as web protocols, hardware, and interfacing to remotely control electronic devices (2010).
 
+## PUBLICATIONS
+1. Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans. 2021
+	1st Author. ACM UMAP ‘21 – User Modeling, Adaptation, and Personalization.
+2. Modeling of Personalized Privacy Disclosure Behavior: A Formal Method Approach. 2021
+	1st Author. BASS ‘21. International Workshop on Behavioral Authentication for System Security @ARES 21
+3. A Multi-Input Multi-Output Transformer based Hybrid Neural Network for Multi-Class Privacy Disclosure Detection. 2021
+	1st Author. MLNLP ‘21. 2nd International Conference on Machine Learning Techniques and NLP.
+4. A User-Centric and Sentiment Aware Privacy-Disclosure Detection Framework based on Multi-input Neural Network. 2020
+	1st Author. PrivateNLP ‘20. Workshop on Privacy in NLP @WSDM 20.
+5. FALCON: Framework for Anomaly Detection in Industrial Control Systems. 2020
+	2nd Author. Journal. MDPI-Multidisciplinary Digital Publishing Institute, Electronics.
+6. Privacy Disclosures Detection in Natural-Language Text through Linguistically-motivated Artificial Neural Network. 2019
+	1st Author. SPNCE ‘19. International Conference on Security and Privacy in New Computing Environment.
 
+<p align="center">
+	<a href="mailto:nuhil@nuhil.net?subject=Github%20Visitor&body=Hi%20Nuhil,..."><img src="http://img.shields.io/badge/-@nuhil.net-_?label=Send%20Mail&style=social&logo=gmail" alt="nuhil@nuhil.net"></a>
+	<a href="https://twitter.com/nuhil"><img src="https://img.shields.io/twitter/follow/nuhil" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/nuhil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://scholar.google.com/citations?user=5QLvXAYAAAAJ&hl=en&authuser=1"><img src="http://img.shields.io/badge/-_?label=Google%20Scholar&style=social&logo=google-scholar" alt="LinkedIn"></a>
+	<a href="https://medium.com/@nuhil"><img src="http://img.shields.io/badge/-@nuhil-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
+	<a href="https://stackoverflow.com/users/1061236/nuhil-mehdy"><img src="https://img.shields.io/stackexchange/stackoverflow/r/1061236?logo=stack-overflow&style=social" alt="StackOverflow"></a>
+</p>
