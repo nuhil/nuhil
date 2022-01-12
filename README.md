@@ -7,7 +7,7 @@
 	<a href="https://stackoverflow.com/users/1061236/nuhil-mehdy"><img src="https://img.shields.io/stackexchange/stackoverflow/r/1061236?logo=stack-overflow&style=social" alt="StackOverflow"></a>
 </p>
 
-## QUALIFICATIONS SUMMARY
+## SUMMARY
 Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and both B.Sc. and M.Sc. degrees in computer science. A former software engineer who believes in artificial intelligence and prefers the cloud infrastructure for developing software and machine learning based AI tools, following the micro-service architecture.
 
 ## SKILLS OVERVIEW
@@ -54,7 +54,7 @@ Rajshahi University of Engineering and Technology | Rajshahi, Bangladesh
 * B.Sc. Thesis - An Internet of Things project by combining technologies such as web protocols, hardware, and interfacing to remotely control electronic devices (2010).
 
 ## PUBLICATIONS
-1. Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans. [2021](https://dl.acm.org/doi/10.1145/3450613.3456829)   
+1. ***Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans.*** [2021](https://dl.acm.org/doi/10.1145/3450613.3456829)   
 	1st Author. ACM UMAP ‘21 – User Modeling, Adaptation, and Personalization.
 2. Modeling of Personalized Privacy Disclosure Behavior: A Formal Method Approach. [2021](https://dl.acm.org/doi/fullHtml/10.1145/3465481.3470102)   
 	1st Author. BASS ‘21. International Workshop on Behavioral Authentication for System Security @ARES 21
