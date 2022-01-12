@@ -45,17 +45,17 @@ Rajshahi University of Engineering and Technology | Rajshahi, Bangladesh
 * B.Sc. Thesis - An Internet of Things project by combining technologies such as web protocols, hardware, and interfacing to remotely control electronic devices (2010).
 
 ## PUBLICATIONS
-1. Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans. 2021
+1. Privacy as a Planned Behavior: Effects of Situational Factors on Privacy Perceptions and Plans. 2021   
 	1st Author. ACM UMAP ‘21 – User Modeling, Adaptation, and Personalization.
-2. Modeling of Personalized Privacy Disclosure Behavior: A Formal Method Approach. 2021
+2. Modeling of Personalized Privacy Disclosure Behavior: A Formal Method Approach. 2021   
 	1st Author. BASS ‘21. International Workshop on Behavioral Authentication for System Security @ARES 21
-3. A Multi-Input Multi-Output Transformer based Hybrid Neural Network for Multi-Class Privacy Disclosure Detection. 2021
+3. A Multi-Input Multi-Output Transformer based Hybrid Neural Network for Multi-Class Privacy Disclosure Detection. 2021   
 	1st Author. MLNLP ‘21. 2nd International Conference on Machine Learning Techniques and NLP.
-4. A User-Centric and Sentiment Aware Privacy-Disclosure Detection Framework based on Multi-input Neural Network. 2020
+4. A User-Centric and Sentiment Aware Privacy-Disclosure Detection Framework based on Multi-input Neural Network. 2020   
 	1st Author. PrivateNLP ‘20. Workshop on Privacy in NLP @WSDM 20.
-5. FALCON: Framework for Anomaly Detection in Industrial Control Systems. 2020
+5. FALCON: Framework for Anomaly Detection in Industrial Control Systems. 2020   
 	2nd Author. Journal. MDPI-Multidisciplinary Digital Publishing Institute, Electronics.
-6. Privacy Disclosures Detection in Natural-Language Text through Linguistically-motivated Artificial Neural Network. 2019
+6. Privacy Disclosures Detection in Natural-Language Text through Linguistically-motivated Artificial Neural Network. 2019   
 	1st Author. SPNCE ‘19. International Conference on Security and Privacy in New Computing Environment.
 
 <p align="center">
