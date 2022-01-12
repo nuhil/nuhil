@@ -11,7 +11,7 @@ Machine Learning Engineer at Micron Technology with a Ph.D. in Computing, and bo
 	<a href="https://stackoverflow.com/users/1061236/nuhil-mehdy"><img src="https://img.shields.io/stackexchange/stackoverflow/r/1061236?logo=stack-overflow&style=social" alt="StackOverflow"></a>
 </p>
 
-<span style="color:blue">## SKILLS OVERVIEW</span>
+## SKILLS OVERVIEW
 * **Programming** - Python, Javascript, Java, C/C++, SQL, R, PHP, HTML, CSS, Shell, Matlab
 * **Data Science** - Statistical Analysis, EDA (Exploratory Data Analysis), Data Visualization, Probability Distributions, Hypothesis and Significance Test, Bayesian Statistics, Streamlit, Pandas Profiling
 * **Data Engineering** - ETL (Extract Transform Load), Snowflake, BigQuery, DVC (Data Version Control), Amazon S3, Google Cloud Storage, SQLite, MySQL, SQL Server, PostgreSQL, MongoDB, SQLAlchemy, Cloud SQL, PySpark (Spark, Hadoop), Jupyter Notebook, Zeppelin, Amazon EMR (Elastic Map Reduce), Google Dataproc, Google Data Studio, Tableau, Microsoft Power BI
