@@ -1,9 +1,9 @@
 <p align="center">
-	<a href="mailto:nuhil@nuhil.net?subject=Github%20Visitor&body=Hi%20Nuhil,..."><img src="http://img.shields.io/badge/-@nuhil.net-_?label=Send%20Mail&style=flat-square&logo=gmail" alt="nuhil@nuhil.net"></a>
+	<a href="mailto:nuhil@nuhil.net?subject=Github%20Visitor&body=Hi%20Nuhil,..."><img src="http://img.shields.io/badge/-@nuhil.net-_?label=Send%20Mail&style=flat&logo=gmail" alt="nuhil@nuhil.net"></a>
 	<a href="https://twitter.com/nuhil"><img src="https://img.shields.io/twitter/follow/nuhil" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/nuhil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-	<a href="https://scholar.google.com/citations?user=5QLvXAYAAAAJ&hl=en&authuser=1"><img src="http://img.shields.io/badge/-_?label=Google%20Scholar&style=flat-square&logo=google-scholar" alt="LinkedIn"></a>
-	<a href="https://medium.com/@nuhil"><img src="http://img.shields.io/badge/-@nuhil-_?label=Medium&style=flat-square&logo=medium" alt="Medium"></a>
+	<a href="https://www.linkedin.com/in/nuhil"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=flat&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://scholar.google.com/citations?user=5QLvXAYAAAAJ&hl=en&authuser=1"><img src="http://img.shields.io/badge/-_?label=Google%20Scholar&style=flat&logo=google-scholar" alt="LinkedIn"></a>
+	<a href="https://medium.com/@nuhil"><img src="http://img.shields.io/badge/-@nuhil-_?label=Medium&style=flat&logo=medium" alt="Medium"></a>
 </p>
 
 ## SUMMARY
