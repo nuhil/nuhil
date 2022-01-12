@@ -30,11 +30,11 @@ Boise State University | Jan 2018 – June 2021 | 3.72/4.00 | Boise, ID, USA
 * Anomaly Detection in Time Series Data
 	* Developed a Deep Learning based anomaly detection model for identifying real-time anomaly in the time series data. Leveraged generative adversarial network for conducting stealthy attacks on continuous variable processes.   
 
-**MASTER OF SCIENCE | Computer Science**
+**MASTER OF SCIENCE | Computer Science**   
 Lamar University | Aug 2015 – Aug 2017 | 3.64/4.00 | Beaumont, TX, USA
 * Deep Neural Network for Autonomous Vehicle Systems (MS Thesis)
 	* Implemented Deep Convolutional Neural Network for predicting steering angle in autonomous vehicle systems. Utilized car simulator and augmentation for driving data.   
 
-**BACHELOR OF SCIENCE | Computer Science and Engineering**
+**BACHELOR OF SCIENCE | Computer Science and Engineering**   
 Rajshahi University of Engineering and Technology | Rajshahi, Bangladesh
 * B.Sc. Thesis - An Internet of Things project by combining technologies such as web protocols, hardware, and interfacing to remotely control electronic devices (2010).
